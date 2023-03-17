@@ -1,5 +1,5 @@
 "use strict";
-exports.__esModule = true;
+Object.defineProperty(exports, "__esModule", { value: true });
 exports.ToDo = void 0;
 //Encapsulate ToDo items in a class
 //Properties: tasks - its an array containing all the tasks. The elements of task array are of type Task (interface)

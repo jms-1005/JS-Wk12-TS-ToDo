@@ -1,5 +1,5 @@
 "use strict";
-exports.__esModule = true;
+Object.defineProperty(exports, "__esModule", { value: true });
 var todo_component_1 = require("./components/todo.component");
 //Creating the Object of the class
 var myToDoList = new todo_component_1.ToDo();
